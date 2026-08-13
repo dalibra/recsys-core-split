@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.log
+*.ckpt
+exps/data/raw/*.csv
+exps/data/splitted/
+exps/data/results/
+exps/data/variants/
+exps/models/
+outputs/
+logs/
